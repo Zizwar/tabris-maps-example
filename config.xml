@@ -7,7 +7,7 @@
     <author email="tabris@eclipsesource.com" href="https://tabrisjs.com">
         EclipseSource
     </author>
-    <preference name="EnableDeveloperConsole" value="true" />
+    <preference name="EnableDeveloperConsole" value="false" />
     <plugin name="com.eclipsesource.tabris.maps" spec="https://github.com/eclipsesource/tabris-maps.git">
         <variable name="API_KEY_FOR_ANDROID" value="Build hook will insert API key from environment variable API_KEY_FOR_ANDROID." />
     </plugin>
